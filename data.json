@@ -15,8 +15,30 @@
   },
   {
     "degree":"GRADUATION",
-    "school":"COLLEGE NAME",
+    "school":"college name",
     "data":["2011","80%"]
   }
+],
+"skills":[
+ {
+   "name":"operating system",
+   "info":["windows","Fedora","ubuntu","redHat"]
+ },
+ {
+   "name":"Languages",
+   "info":["C","C++","Java","Python"]
+ },
+ {
+   "name":"Databases",
+   "info":["Oracle","MySql","cybase"]
+ },
+ {
+   "name":"Web Technologies",
+   "info":["Html","CSS","javascript"]
+ },
+ {
+   "name":"Frameworks",
+   "info":["Bootstrap",".net"]
+ }
 ]
 }
