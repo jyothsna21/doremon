@@ -1,0 +1,22 @@
+{
+  "career":{
+    "info":"To pursue a challenging career"
+  },
+ "education":[
+  {
+   "degree":"SSC",
+   "school":"school name",
+   "data":["2005","90%"]
+ },
+  {
+    "degree":"INTERMEDIATE",
+    "school":"college name",
+    "data":["2007","80%"]
+  },
+  {
+    "degree":"GRADUATION",
+    "school":"COLLEGE NAME",
+    "data":["2011","80%"]
+  }
+]
+}
